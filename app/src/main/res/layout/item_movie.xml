@@ -27,7 +27,7 @@
     <TextView
         android:id="@+id/tvOverview"
         android:layout_width="294dp"
-        android:layout_height="102dp"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/tvTitle"
         android:layout_toEndOf="@+id/ivPosterImage"
         android:text="Movie overview and synopsis"
